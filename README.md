@@ -1,3 +1,15 @@
 # House-Price-Advanced-Regression-Techniques
 
-## Pipeline
+## Pipeline (Crisp-DM)
+
+### Business Understanding 
+
+### Data Understanding 
+
+### Data Preparation
+
+### Modelling
+
+### Evaluation
+
+### Deployment
